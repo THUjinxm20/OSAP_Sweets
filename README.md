@@ -2,7 +2,7 @@
 Oxford Study Abroad Program: Sweets flavors analysis
 
 <h2> First task </h2>
-<p>
+<pre>
   Analyse the data in the ‘Sweetie Flavour.csv’ data-file and complete the following:
 1. Produce some descriptive information about the data – in both graphical and quantitative forms
 2. Remove any data that is less useful whilst retaining useful information
@@ -16,10 +16,10 @@ d. Where possible, adjust the model to improve its performance.
 e. Where you adjust a model, describe how your adjustments either improve or reduce the quality
 of the model
 4. Your Jupyter notebook should include ‘markdown’ cells that describe the analysis at each step.
-  </p> 
+  </pre> 
   
   <h2> Second task</h2>
-  <p>
+  <pre>
   Analyse the data in the ‘Customer Preference.csv’ data-file and complete the following:
 1. Organise the children into groups that have a similar preference for flavours of sweets
 2. Make a recommendation for the number of groups you would select to sell the most sweets to the
@@ -27,4 +27,4 @@ most children
 3. How much of each of the flavour chemicals would you use for each group of children?Page 2 of 2
 Version 4, 23/08/2021 20:01
 Submit a Jupyter Notebook (a .ipynb file ) containing the results of your analysis
-  </p>
+  </pre>
